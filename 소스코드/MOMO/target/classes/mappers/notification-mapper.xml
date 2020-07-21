@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="notificationMapper">
+
+	<resultMap type="Notification" id="notificationResultSet">
+		<id property="notId" column="NOT_ID" />
+		<result property="userId" column="USER_ID" />
+		<result property="notContent" column="NOT_CONTENT" />
+		<result property="notCreateDate" column="NOT_CREATE_DATE" />
+	</resultMap>
+</mapper>

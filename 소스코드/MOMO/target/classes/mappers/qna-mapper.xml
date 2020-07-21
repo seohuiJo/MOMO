@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="qnaMapper">
+
+	<resultMap type="QNA" id="qnaResultSet">
+		<id property="qnaId" column="QNA_ID" />
+		<result property="qUserId" column="Q_USER_ID" />
+		<result property="aUserId" column="A_USER_ID" />
+		<result property="q" column="Q" />
+		<result property="p" column="P" />
+	</resultMap>
+
+</mapper>
