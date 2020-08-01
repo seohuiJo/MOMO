@@ -10,7 +10,7 @@
 
 - 로그인/회원가입
 ![로그인](./images/logIn.png)
-![회원가입](./images/signUn.png)
+![회원가입](./images/signUp.png)
 
 - 아이디 찾기/비밀번호 찾기
 ![아이디찾기](./images/findId.png)
@@ -43,7 +43,7 @@
 ![프로젝트](./images/where.png)
 
 ## 시연 영상
-- [스펀딩 프로젝트](https://www.youtube.com/watch?v=6lJRiR4ETgY&feature=youtu.be)
+- [모모 프로젝트](https://youtu.be/9z7McdXBh6A)
 
 ## 개발 도구
 - 이클립스
